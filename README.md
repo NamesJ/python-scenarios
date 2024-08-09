@@ -1,5 +1,5 @@
 # Python Practice Scenarios
-A collection of Python practice scenarios
+A collection of Python practice scenarios used for teaching
 
 ## 1. Basic Python Concepts
 - **Defining Variables**: Create variables of different types (e.g., integer, string, list).
