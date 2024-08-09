@@ -1,9 +1,6 @@
 # Python Practice Scenarios
 A collection of Python practice scenarios
 
-
-## Coming soon...
-
 ## 1. Basic Python Concepts
 - **Defining Variables**: Create variables of different types (e.g., integer, string, list).
 - **Using Variables**: Perform operations and print values using defined variables.
@@ -37,6 +34,10 @@ A collection of Python practice scenarios
 - **Writing Files**: Write data to text files.
 - **Appending Files**: Append data to existing files.
 - **Working with CSV Files**: Read and write CSV files using Python's `csv` module.
+
+# Coming soon...
+
+## 6. File Handling (cont.)
 - **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 7. Exception Handling
