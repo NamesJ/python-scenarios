@@ -35,15 +35,15 @@ A collection of Python practice scenarios used for teaching
 - **Appending Files**: Append data to existing files.
 - **Working with CSV Files**: Read and write CSV files using Python's `csv` module.
 
-# Coming soon...
-
-## 6. File Handling (cont.)
-- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
-
 ## 7. Exception Handling
 - **Try-Except**: Handle exceptions using `try-except` blocks.
 - **Multiple Exceptions**: Catch multiple exceptions and handle them appropriately.
 - **Finally Block**: Ensure code runs with the `finally` block, regardless of exceptions.
+
+# Coming soon...
+
+## 6. File Handling (cont.)
+- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 8. Object-Oriented Programming (OOP)
 - **Creating Classes**: Define classes with attributes and methods.
