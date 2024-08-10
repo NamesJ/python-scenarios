@@ -40,16 +40,16 @@ A collection of Python practice scenarios used for teaching
 - **Multiple Exceptions**: Catch multiple exceptions and handle them appropriately.
 - **Finally Block**: Ensure code runs with the `finally` block, regardless of exceptions.
 
-# Coming soon...
-
-## 6. File Handling (cont.)
-- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
-
 ## 8. Object-Oriented Programming (OOP)
 - **Creating Classes**: Define classes with attributes and methods.
 - **Instantiating Objects**: Create objects from classes and call their methods.
 - **Inheritance**: Implement inheritance between classes.
 - **Polymorphism**: Use method overriding and other polymorphic behavior.
+
+# Coming soon...
+
+## 6. File Handling (cont.)
+- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 9. Working with Data
 - **List Comprehensions**: Create lists using list comprehensions for concise code.
