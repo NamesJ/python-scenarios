@@ -1,6 +1,8 @@
 # Python Practice Scenarios
 A collection of Python practice scenarios used for teaching
 
+*Refer to the `TODO.md` file in the root each sections folder for instructions*
+
 ## 1. Basic Python Concepts
 - **Defining Variables**: Create variables of different types (e.g., integer, string, list).
 - **Using Variables**: Perform operations and print values using defined variables.
