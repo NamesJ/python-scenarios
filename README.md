@@ -36,6 +36,7 @@ A collection of Python practice scenarios used for teaching
 - **Writing Files**: Write data to text files.
 - **Appending Files**: Append data to existing files.
 - **Working with CSV Files**: Read and write CSV files using Python's `csv` module.
+- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 7. Exception Handling
 - **Try-Except**: Handle exceptions using `try-except` blocks.
@@ -49,9 +50,6 @@ A collection of Python practice scenarios used for teaching
 - **Polymorphism**: Use method overriding and other polymorphic behavior.
 
 # Coming soon...
-
-## 6. File Handling (cont.)
-- **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 9. Working with Data
 - **List Comprehensions**: Create lists using list comprehensions for concise code.
