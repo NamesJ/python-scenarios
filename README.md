@@ -1,5 +1,7 @@
 # Python Practice Scenarios
-A collection of Python practice scenarios
+A collection of Python practice scenarios used for teaching
+
+*Refer to the `TODO.md` file in the root each sections folder for instructions*
 
 ## 1. Basic Python Concepts
 - **Defining Variables**: Create variables of different types (e.g., integer, string, list).
@@ -34,10 +36,6 @@ A collection of Python practice scenarios
 - **Writing Files**: Write data to text files.
 - **Appending Files**: Append data to existing files.
 - **Working with CSV Files**: Read and write CSV files using Python's `csv` module.
-
-# Coming soon...
-
-## 6. File Handling (cont.)
 - **Working with JSON Files**: Read and write JSON files using Python's `json` module.
 
 ## 7. Exception Handling
@@ -50,6 +48,8 @@ A collection of Python practice scenarios
 - **Instantiating Objects**: Create objects from classes and call their methods.
 - **Inheritance**: Implement inheritance between classes.
 - **Polymorphism**: Use method overriding and other polymorphic behavior.
+
+# Coming soon...
 
 ## 9. Working with Data
 - **List Comprehensions**: Create lists using list comprehensions for concise code.
